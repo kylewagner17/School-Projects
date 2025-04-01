@@ -1,0 +1,70 @@
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\bin\Debug\net8.0\appsettings.json
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\bin\Debug\net8.0\libman.json
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\bin\Debug\net8.0\SignalRChat.staticwebassets.runtime.json
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\bin\Debug\net8.0\SignalRChat.staticwebassets.endpoints.json
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\bin\Debug\net8.0\SignalRChat.exe
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\bin\Debug\net8.0\SignalRChat.deps.json
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\bin\Debug\net8.0\SignalRChat.runtimeconfig.json
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\bin\Debug\net8.0\SignalRChat.dll
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\bin\Debug\net8.0\SignalRChat.pdb
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.AssemblyInfoInputs.cache
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.AssemblyInfo.cs
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.RazorAssemblyInfo.cache
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.RazorAssemblyInfo.cs
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\scopedcss\bundle\SignalRChat.styles.css
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\scopedcss\projectbundle\SignalRChat.bundle.scp.css
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets\msbuild.SignalRChat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets\msbuild.SignalRChat.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets\msbuild.build.SignalRChat.props
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SignalRChat.props
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SignalRChat.props
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.dll
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\refint\SignalRChat.dll
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.pdb
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.genruntimeconfig.cache
+C:\Users\Kyle\source\repos\SignalRChat\SignalRChat\obj\Debug\net8.0\ref\SignalRChat.dll
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\bin\Debug\net8.0\appsettings.Development.json
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\bin\Debug\net8.0\appsettings.json
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\bin\Debug\net8.0\libman.json
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\bin\Debug\net8.0\SignalRChat.staticwebassets.endpoints.json
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\bin\Debug\net8.0\SignalRChat.staticwebassets.runtime.json
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\bin\Debug\net8.0\SignalRChat.exe
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\bin\Debug\net8.0\SignalRChat.deps.json
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\bin\Debug\net8.0\SignalRChat.runtimeconfig.json
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\bin\Debug\net8.0\SignalRChat.dll
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\bin\Debug\net8.0\SignalRChat.pdb
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.AssemblyInfoInputs.cache
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.AssemblyInfo.cs
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.csproj.CoreCompileInputs.cache
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.MvcApplicationPartsAssemblyInfo.cache
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.RazorAssemblyInfo.cache
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.RazorAssemblyInfo.cs
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\scopedcss\bundle\SignalRChat.styles.css
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\scopedcss\projectbundle\SignalRChat.bundle.scp.css
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets.build.json
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets.development.json
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets\msbuild.SignalRChat.Microsoft.AspNetCore.StaticWebAssets.props
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets\msbuild.SignalRChat.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets\msbuild.build.SignalRChat.props
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SignalRChat.props
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SignalRChat.props
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets.pack.json
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.dll
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\refint\SignalRChat.dll
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.pdb
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\SignalRChat.genruntimeconfig.cache
+D:\School Projects\CSET3200-ClientServerComputing\SignalRChat\SignalRChat\obj\Debug\net8.0\ref\SignalRChat.dll
