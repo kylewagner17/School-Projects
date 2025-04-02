@@ -1,0 +1,10 @@
+Dependencies for Project 'PLL', Target 'PLL': (DO NOT MODIFY !)
+F (.\startup.s)(0x51E99A48)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\PLL.c)(0x53E928D4)(-c --cpu Cortex-M4 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (PLL.h)(0x67E71674)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (..\inc/tm4c123gh6pm.h)(0x53E64D0A)
+F (.\PLLTestMain.c)(0x67E714C8)(-c --cpu Cortex-M4 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\plltestmain.o --omf_browse .\plltestmain.crf --depend .\plltestmain.d)
+I (PLL.h)(0x67E71674)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C86E14)
+I (..\inc/tm4c123gh6pm.h)(0x53E64D0A)
